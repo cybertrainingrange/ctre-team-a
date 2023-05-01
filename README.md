@@ -40,7 +40,6 @@ Auto Scaling Group and Network Load Balancing are important components of cybers
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1k9ds1yVILou_hhZAYVJEPAXPD8TnBu_l)
 
-
 API Gateway is a fully managed service provided by AWS that enables developers to create, deploy, and manage APIs (Application Programming Interfaces) for their applications. It acts as a "front door" for applications, allowing clients to securely access and interact with the backend services and data sources. API Gateway is important in networking security because it provides several security features that help protect APIs and the backend resources they access. 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1O8kh3EI5unQ8_FPf1qabb-XFm71UqgJd)
