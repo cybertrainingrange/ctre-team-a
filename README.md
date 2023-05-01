@@ -9,7 +9,7 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 For learning Linux and networking, some of the essential services include Amazon Elastic Compute Cloud (EC2), Amazon Virtual Private Cloud (VPC), AWS Identity and Access Management (IAM), and AWS security groups. EC2 instances provide an ideal platform for running Linux and practicing networking concepts. 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1xSEQz6MTjwDI0BK3r4BfmoHlbflLkCmC)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
 
 
 VPC is a network isolation service that enables the creation of a private network in the cloud, which is perfect for practicing networking concepts such as subnetting and routing. 
