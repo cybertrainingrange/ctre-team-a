@@ -30,6 +30,7 @@ S3 for storing and retrieving data in the cloud. It is designed with security as
 
 AWS Lambda is a serverless compute service offered by Amazon Web Services (AWS) that can be leveraged to improve Cybersecurity in networking. Lambda functions can be triggered by a variety of event sources, including AWS services such as S3, CloudWatch, and API Gateway. This feature allows it automate tasks such as file processing, log analysis, and data transformation.
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1R7nODj--Knk5pgZAGoK7nDBcojj9OBNm)
 
 For monitoring and analyzing infrastructure, AWS CloudWatch is a monitoring and logging service that provides metrics and logs for AWS resources. CloudWatch alarms and metrics can be used to monitor resource usage, performance, and availability of Linux-based applications and network infrastructure. AWS Network Access Control Lists (NACLs) and AWS Cost Explorer and AWS Budgets are also essential tools for securing network infrastructure and managing AWS costs, respectively.
