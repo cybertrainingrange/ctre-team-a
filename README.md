@@ -36,7 +36,7 @@ With VPC, users can define their own network topology, including IP address rang
 Buckets act as the receptacles for objects and can be created in multiple quantities. You have the ability to regulate access to each bucket, including determining who has the authority to create, delete, and list objects within the bucket, review access logs for both the bucket and its objects, and select the geographic region where Amazon S3 will store the bucket and its contents.  |
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_9b8wTKStvtu0pix4y_3ugDgAXWRMsEm)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_9b8wTKStvtu0pix4y_3ugDgAXWRMsEm)                    |
 | :-------------------------------- |
 |  AWS Lambda is a serverless compute service offered by Amazon Web Services (AWS) that can be leveraged to improve Cybersecurity in networking. Lambda functions can be triggered by a variety of event sources, including AWS services such as S3, CloudWatch, and API Gateway. This feature allows it automate tasks such as file processing, log analysis, and data transformation. |
 
