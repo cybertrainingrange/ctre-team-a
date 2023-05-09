@@ -52,7 +52,9 @@ For monitoring and analyzing infrastructure, AWS CloudWatch is a monitoring and 
 
 API Gateway is a fully managed service provided by AWS that enables developers to create, deploy, and manage APIs (Application Programming Interfaces) for their applications. It acts as a "front door" for applications, allowing clients to securely access and interact with the backend services and data sources. API Gateway is important in networking security because it provides several security features that help protect APIs and the backend resources they access. 
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1a_pL2obwm3GG2SUewhXorJ4RjcTJs5nI)
+
 
 AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that offers recommendations for optimizing AWS infrastructure across different areas, including network security in the cloud. Trusted Advisor helps users to improve the security and performance of their AWS resources and reduce costs by providing automated checks and recommendations based on AWS best practices.
 
