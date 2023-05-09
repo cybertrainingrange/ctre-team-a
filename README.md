@@ -30,7 +30,7 @@ With VPC, users can define their own network topology, including IP address rang
 |  AWS Web Application Firewall (WAF) for protecting web applications from web exploits. It allows organizations to protect their web applications by configuring customized security rules that can block incoming requests based on the IP address, country of origin, HTTP method, or payload content. AWS WAF rules can be updated on the fly, making it possible to respond quickly to new threats and exploits. |
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1fYOHVNHMYNcGju2deGuYcASnRssMgZVD)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1bItGyHofco8EqG9wd-VgUB3vF-qPSa7c)                   |
 | :-------------------------------- |
 |  S3 for storing and retrieving data in the cloud. It is designed with security as a top priority. S3 provides server-side encryption of data at rest by default, which ensures that data is encrypted when it is stored in S3.  |
 
