@@ -14,7 +14,7 @@ For learning Linux and networking, some of the essential services include Amazon
 
 VPC is a network isolation service that enables the creation of a private network in the cloud, which is perfect for practicing networking concepts such as subnetting and routing. 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=14A9sfGyYz6KgKJdUT0xFrS_6R3h1UGGW)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)
 
 IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources.
 
