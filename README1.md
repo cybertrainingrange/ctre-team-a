@@ -61,7 +61,10 @@ In summary, AWS offers a comprehensive set of services and tools that Cybersecur
 ## 🛠 Technical Documentation
 [Sample Documentation - Title will change](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
 
-
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)                   |
+| :-------------------------------- |
+|  IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources.
+  |
 
 ## Agile Framework 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1YfgwMU6OcBiI6JxKRmiGt4GX4g7RHXVU)
