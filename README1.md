@@ -1,8 +1,8 @@
-
 # Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
 
 
-[![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
+
 
 This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
 
@@ -57,3 +57,26 @@ API Gateway is a fully managed service provided by AWS that enables developers t
 AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that offers recommendations for optimizing AWS infrastructure across different areas, including network security in the cloud. Trusted Advisor helps users to improve the security and performance of their AWS resources and reduce costs by providing automated checks and recommendations based on AWS best practices.
 
 In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS.
+
+## 🛠 Technical Documentation
+[Sample Documentation - Title will change](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
+
+
+
+## Agile Framework 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1YfgwMU6OcBiI6JxKRmiGt4GX4g7RHXVU)
+
+
+- [Trello Schedule 1](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
+- [Trello Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
+
+## Team Members
+- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
+- Ella [@ellaowens](https://github.com/ellaowens)
+- Emilie [@emtechnode](https://github.com/emtechnode)
+- Jane [@jjperipheral](https://github.com/jjperipheral)
+- Jared [@jared](https://www.github.com/)
+- Mina [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
+- Nancy [@nancyuddin](https://github.com/nancyuddin)
+- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
+- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
