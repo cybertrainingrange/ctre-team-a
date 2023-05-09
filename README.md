@@ -10,7 +10,6 @@ For learning Linux and networking, some of the essential services include Amazon
 
 
 
-
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1wrujVg-ooItxITYXGxNdQUGuCsNRnkEp)
 
 
