@@ -18,7 +18,7 @@ VPC is a network isolation service that enables the creation of a private networ
 
 IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1ShNakgRkYd3nsjOHxifICcJTkCr2V8iV)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)
 
 AWS Web Application Firewall (WAF) for protecting web applications from web exploits. It allows organizations to protect their web applications by configuring customized security rules that can block incoming requests based on the IP address, country of origin, HTTP method, or payload content. AWS WAF rules can be updated on the fly, making it possible to respond quickly to new threats and exploits.
  
