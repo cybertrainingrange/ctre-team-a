@@ -36,25 +36,25 @@ With VPC, users can define their own network topology, including IP address rang
 Buckets act as the receptacles for objects and can be created in multiple quantities. You have the ability to regulate access to each bucket, including determining who has the authority to create, delete, and list objects within the bucket, review access logs for both the bucket and its objects, and select the geographic region where Amazon S3 will store the bucket and its contents.  |
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1MqHIWbyHOpWxsHFm7UJQkFggAQtVyJqS)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_9b8wTKStvtu0pix4y_3ugDgAXWRMsEm)                   |
 | :-------------------------------- |
 |  AWS Lambda is a serverless compute service offered by Amazon Web Services (AWS) that can be leveraged to improve Cybersecurity in networking. Lambda functions can be triggered by a variety of event sources, including AWS services such as S3, CloudWatch, and API Gateway. This feature allows it automate tasks such as file processing, log analysis, and data transformation. |
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1R7nODj--Knk5pgZAGoK7nDBcojj9OBNm)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1-xxbdB4GmICZPOCAfbjw8K5-eEh2hEp2)                   |
 | :-------------------------------- |
 |  For monitoring and analyzing infrastructure, AWS CloudWatch is a monitoring and logging service that provides metrics and logs for AWS resources. CloudWatch alarms and metrics can be used to monitor resource usage, performance, and availability of Linux-based applications and network infrastructure. AWS Network Access Control Lists (NACLs) and AWS Cost Explorer and AWS Budgets are also essential tools for securing network infrastructure and managing AWS costs, respectively. |
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=19iIwXeBX2l52tRk82dwdOS1T9N9tjp6A)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1d8RUtX8Qrb7jEMMciNBMDM4pZLK4sRV2)                   |
 | :-------------------------------- |
 |  API Gateway is a fully managed service provided by AWS that enables developers to create, deploy, and manage APIs (Application Programming Interfaces) for their applications. It acts as a "front door" for applications, allowing clients to securely access and interact with the backend services and data sources. API Gateway is important in networking security because it provides several security features that help protect APIs and the backend resources they access.  |
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1a_pL2obwm3GG2SUewhXorJ4RjcTJs5nI)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=11GQicjGEn-ZvM0NjfEJ0DNR1E21PubRZ)                   |
 | :-------------------------------- |
 | AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that offers recommendations for optimizing AWS infrastructure across different areas, including network security in the cloud. Trusted Advisor helps users to improve the security and performance of their AWS resources and reduce costs by providing automated checks and recommendations based on AWS best practices. |
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1ipiqZGNyAAfoWPoqrYHngUBFZSLQ0VUZ)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1x61SmoIa22xnDsRiu5R5GEGNY8EicsSn)                   |
 | :-------------------------------- |
 |  Auto Scaling Group and Network Load Balancing are important components of cybersecurity because they help ensure high availability, provide elasticity, enable advanced traffic management, and improve monitoring capabilities for cloud-based applications. They help to prevent downtime due to denial of service attacks, automatically adjust resources to changing traffic patterns, route traffic to the appropriate instances, and provide detailed monitoring and logging capabilities to identify and respond to security events more quickly. 
 In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS. |
