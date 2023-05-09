@@ -34,7 +34,7 @@ With VPC, users can define their own network topology, including IP address rang
 | :-------------------------------- |
 |  Amazon S3 is a storage service designed for objects that provides exceptional scalability, data availability, security, and performance. With Amazon S3, you have the ability to store and retrieve any quantity of data from any location at any time.
 
-Buckets act as the receptacles for objects and can be created in multiple quantities. You have the ability to regulate access to each bucket, including determining who has the authority to create, delete, and list objects within the bucket, review access logs for both the bucket and its objects, and select the geographic region where Amazon S3 will store the bucket and its contents.   |
+Buckets act as the receptacles for objects and can be created in multiple quantities. You have the ability to regulate access to each bucket, including determining who has the authority to create, delete, and list objects within the bucket, review access logs for both the bucket and its objects, and select the geographic region where Amazon S3 will store the bucket and its contents.  |
 
 
 |  ![App Screenshot](https://drive.google.com/uc?export=view&id=1MqHIWbyHOpWxsHFm7UJQkFggAQtVyJqS)                   |
