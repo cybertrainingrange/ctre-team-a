@@ -60,11 +60,13 @@ API Gateway is a fully managed service provided by AWS that enables developers t
 
 AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that offers recommendations for optimizing AWS infrastructure across different areas, including network security in the cloud. Trusted Advisor helps users to improve the security and performance of their AWS resources and reduce costs by providing automated checks and recommendations based on AWS best practices.
 
-In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1ipiqZGNyAAfoWPoqrYHngUBFZSLQ0VUZ)
 
 Auto Scaling Group and Network Load Balancing are important components of cybersecurity because they help ensure high availability, provide elasticity, enable advanced traffic management, and improve monitoring capabilities for cloud-based applications. They help to prevent downtime due to denial of service attacks, automatically adjust resources to changing traffic patterns, route traffic to the appropriate instances, and provide detailed monitoring and logging capabilities to identify and respond to security events more quickly. 
+
+
+In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS.
 
 
 ## 🛠 Technical Documentation
