@@ -61,19 +61,19 @@ Buckets act as the receptacles for objects and can be created in multiple quanti
 In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS. |
 
 
-## 🛠 Technical Documentation
+🛠 ## Technical Documentation
 [Sample Documentation - Title will change](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
 
 
 
-## ⚓ Agile Framework 
+⚓ ## Agile Framework 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
 
 
 - [Trello Schedule 1](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
 - [Trello Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
 
-## 👩‍💻|👨‍💻 Team A Members
+👩‍💻|👨‍💻 ## Team A Members
 - Ameha [@ameha01](https://github.com/ameha01)
 - Ella [@ellaowens](https://github.com/ellaowens)
 - Emilie [@emtechnode](https://github.com/emtechnode)
