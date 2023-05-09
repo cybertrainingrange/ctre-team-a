@@ -1,6 +1,6 @@
 # Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
 
-[![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
 
 
 This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
