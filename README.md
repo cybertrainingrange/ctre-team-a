@@ -24,6 +24,7 @@ With VPC, users can define their own network topology, including IP address rang
 IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources.
 
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1GS3j-8R-8XQdrrsjG9RUDG6u8wovxvhb)
 
 
