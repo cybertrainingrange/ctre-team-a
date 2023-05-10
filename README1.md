@@ -4,7 +4,7 @@
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
 
 
-This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas. edit
+This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
 
 For learning Linux and networking, some of the essential services include Amazon Elastic Compute Cloud (EC2), Amazon Virtual Private Cloud (VPC), AWS Identity and Access Management (IAM), and AWS security groups. EC2 instances provide an ideal platform for running Linux and practicing networking concepts. 
 
