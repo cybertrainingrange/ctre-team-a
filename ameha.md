@@ -1,4 +1,4 @@
-## This is Emilie's page
+## Ameha
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1gVr8W3pTvd-shb4z2rhIxsub8SOtWiGn)
 
