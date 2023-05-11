@@ -28,6 +28,6 @@ In nibh mauris cursus mattis molestie a iaculis. Dolor morbi non arcu risus quis
 
 Nunc mi ipsum faucibus vitae aliquet. Egestas congue quisque egestas diam in arcu cursus euismod quis. Et malesuada fames ac turpis egestas sed tempus. Leo in vitae turpis massa sed elementum tempus egestas. Felis donec et odio pellentesque diam volutpat commodo. Nunc non blandit massa enim nec. Ac turpis egestas sed tempus urna et pharetra. Turpis egestas sed tempus urna et pharetra. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Arcu cursus euismod quis viverra nibh. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Facilisis mauris sit amet massa vitae. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Nibh nisl condimentum id venenatis a condimentum. Duis at consectetur lorem donec. Viverra aliquet eget sit amet tellus cras adipiscing enim. Eget gravida cum sociis natoque penatibus et magnis dis. Euismod quis viverra nibh cras pulvinar mattis nunc.
 ## 🔗 Profile
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [**Ella Owens**]
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) **Ella Owens**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [**Neiman Phillips**]
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) **Neiman Phillips**
