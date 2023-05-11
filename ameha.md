@@ -12,9 +12,6 @@ For learning Linux and networking, some of the essential services include Amazon
 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1C3P2EYzXFcmV2eQekXBMyHMUbqsYm6Rr)
-
-
 VPC stands for Virtual Private Cloud. It is a cloud computing service provided by Amazon Web Services (AWS) that enables users to launch their own isolated virtual network in the cloud. VPC provides a secure and configurable environment for users to launch their AWS resources, such as Amazon EC2 instances, RDS instances, and Elastic Load Balancers.
 
 With VPC, users can define their own network topology, including IP address ranges, subnets, and route tables. Users can also configure network gateways, such as NAT gateways, VPN connections, and Direct Connect links, to connect their VPC to their on-premises network or other VPCs in the same region.
