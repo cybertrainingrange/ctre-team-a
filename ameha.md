@@ -5,6 +5,7 @@
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1sXp4E9eUk_JUM53ruJKMpyH0AR0QD1N4)
 
 
+
 This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
 
 For learning Linux and networking, some of the essential services include Amazon Elastic Compute Cloud (EC2), Amazon Virtual Private Cloud (VPC), AWS Identity and Access Management (IAM), and AWS security groups. EC2 instances provide an ideal platform for running Linux and practicing networking concepts. 
@@ -19,7 +20,7 @@ VPC stands for Virtual Private Cloud. It is a cloud computing service provided b
 With VPC, users can define their own network topology, including IP address ranges, subnets, and route tables. Users can also configure network gateways, such as NAT gateways, VPN connections, and Direct Connect links, to connect their VPC to their on-premises network or other VPCs in the same region.
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)                   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)   |
 | :-------------------------------- |
 |  IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources. |
 
