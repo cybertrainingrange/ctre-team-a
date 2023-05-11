@@ -1,6 +1,9 @@
 ## Ameha
 
+
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1sXp4E9eUk_JUM53ruJKMpyH0AR0QD1N4)
+
 
 
 This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
