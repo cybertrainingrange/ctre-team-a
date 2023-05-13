@@ -1,5 +1,5 @@
 
-# API (Application Programming Interfaces)👋 :
+# API (Application Programming Interfaces)👋
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1rxzGhW6orP_iGggyOpTBK9i-MatpVLuA)
 
