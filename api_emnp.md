@@ -24,9 +24,9 @@ In conclusion, API Gateway is a crucial component of modern software architectur
 
 ## Technical Documentation
 
-Detailed Document: ![App Screenshot](https://drive.google.com/uc?export=view&id=1MQ03Is9H1w1KyiAEDCob0WV6TeXHTgwqo7NMqEljQJc)
+Detailed Document: ![App Screenshot](https://docs.google.com/document/d/1MQ03Is9H1w1KyiAEDCob0WV6TeXHTgwqo7NMqEljQJc/edit?usp=share_link)
 
- Technical Documentation: ![App Screenshot](https://drive.google.com/uc?export=view&id=1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE)
+ Technical Documentation: ![App Screenshot](https://docs.google.com/document/d/1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE/edit?usp=share_link)
 
 
 
