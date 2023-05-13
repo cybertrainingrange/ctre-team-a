@@ -79,7 +79,7 @@ In summary, AWS offers a comprehensive set of services and tools that Cybersecur
 ## Team A Members 👩‍💻|👨‍💻
 - Ameha [@ameha01](https://github.com/ameha01)
 - Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
+- Emilie [@emtechnode](https://github.com/emiliedionisio)
 - Jane [@jjperipheral](https://github.com/jjperipheral)
 - Jared [@jared](https://github.com/JHamIam)
 - Mina [@vick627](https://github.com/orgs/)
