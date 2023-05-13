@@ -31,7 +31,7 @@ In conclusion, API Gateway is a crucial component of modern software architectur
 [Technical Documentation](https://docs.google.com/document/d/1Nq6TrYQq8HVG1frYjyoTmuyEBSgA3XuCvOMCvMEv88c/edit?usp=share_link)[by: Neiman Phillips]
 
 
-## 🔗 Portfolio
+## 🔗 Authors:
 ### Emilie Dionisio
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
 ### Neiman Phillips
