@@ -1,5 +1,5 @@
 
-# API (Application Programming Interfaces)👋
+# API (Application Programming Interfaces)👋 :
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1rxzGhW6orP_iGggyOpTBK9i-MatpVLuA)
 
@@ -32,8 +32,8 @@ In conclusion, API Gateway is a crucial component of modern software architectur
 
 
 ## 🔗 Authors:
-### Emilie Dionisio
+👩‍💻### Emilie Dionisio
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-### Neiman Phillips
+👨‍💻### Neiman Phillips
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neimanphillips/)
 
