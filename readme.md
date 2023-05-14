@@ -43,3 +43,28 @@ Having a good database service is essential in the client-serving side of comput
 For a user to be able to navigate all these applications and  web services they would need an incredible operating system that allows you to have a secure environment, high speed, and a good amount of memory and storage. Linux operating system is a free and open source operating system. Yes, free. One of the biggest pros to linux outside of it being free to download and use, is that it works on on the surface layers of the OS model and is downloaded on with its own kernel embedded in it already. This is great for users who just want to experiment with a new OS without buying a new computer or changing their whole system. Linux can be downloaded on a virtual box or container such as docker and can be accessed through there. As you can see, linux is portable and has good accessibility.
 
 These are just some of the few tools that can be utilized to help you be proficient in the online world. Overall, our goal has been to compile some incredible features to benefit others and summarize it in a concise way which is easy for people to comprehend. Becoming confident in the online world of networking and knowing how to make your business scalable are essential for success. By utilizing these tools, you will be able to succeed in the cyber world.
+
+
+## Technical Documentation 🛠 
+
+[Team A - AWS Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
+
+
+
+## Agile Framework ⚓ 
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
+
+
+- [Trello Schedule](https://drive.google.com/file/d/14K6gWdah9guLrlCMnA5dyh4FLPd7AR0V/view?usp=share_link)
+
+## Team A Members 👩‍💻|👨‍💻
+- Ameha [@ameha01](https://github.com/ameha01)
+- Ella [@ellaowens](https://github.com/ellaowens)
+- Emilie [@emtechnode](https://github.com/emiliedionisio)
+- Jane [@jjperipheral](https://github.com/jjperipheral)
+- Jared [@jared](https://github.com/JHamIam)
+- Mina [@vick627](https://github.com/orgs/)
+- Nancy [@nancyuddin](https://github.com/nancyuddin)
+- Neiman [@Neiman](https://github.com/bull-in-the-heather)
+- Victor [@vick627](https://github.com/vick627)
