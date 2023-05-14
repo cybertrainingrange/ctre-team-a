@@ -73,8 +73,7 @@ In summary, AWS offers a comprehensive set of services and tools that Cybersecur
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
 
 
-- [Trello Schedule 1](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
-- [Trello Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
+- [Trello Schedule](https://drive.google.com/file/d/14K6gWdah9guLrlCMnA5dyh4FLPd7AR0V/view?usp=share_link)
 
 ## Team A Members 👩‍💻|👨‍💻
 - Ameha [@ameha01](https://github.com/ameha01)
