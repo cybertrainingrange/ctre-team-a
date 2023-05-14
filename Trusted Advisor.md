@@ -14,7 +14,6 @@ AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that help
 ## Authors
 
 - [@Ella Owens](https://github.com/ellaowens)
-- [@Neiman Phillips](https://github.com/bull-in-the-heather)
 
 
 ## 🚀 About Us
@@ -24,12 +23,8 @@ AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that help
 Hi! I am currently a cyber security fellow, in the TKH Innovation Fellowship, learning the principles of cybersecurity and preforming security operation and optimization for security functions in AWS cloud. I have participated in a collaborative team to demonstrate an understanding and application of AWS services for building a secure lab in the AWS Cloud environment. The project involved leveraging AWS services to create a secure infrastructure that can protect against various cyber threats and attacks. For the final months of this cyber security fellowship, I am joining other students to create a capstone project. GitHub allows us to document our work while demonstrating our understanding of what we have learned and continue to learn. 
 
 
-👨‍💻 **Neiman Phillips**
-
 
 
 
 ## 🔗 Profile
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ellahowens) **Ella Owens**
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) **Neiman Phillips**
