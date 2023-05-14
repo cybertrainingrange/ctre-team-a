@@ -1,9 +1,5 @@
 # Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
 
-
-# Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
-
-
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1K1g-aEWpIoXgJE4rRq0DBYUWCmJ060HW) |
 | :-------------------------------- |
 | Tech is the fastest growing industry in the market right now, every day new innovations and advances are introduced to society. There isn't a place that hasn't been touched by technology. It encompasses as we do. Our paper maps have been replaced with google maps. Our health records can be accessed and stored online, The majority of our financial dealings are done electronically. All our most precious moments are captured with a camera and stored on our computers or phones. Online shopping is at an all time high. 
