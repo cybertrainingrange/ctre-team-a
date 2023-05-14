@@ -26,17 +26,18 @@ Response: Once the code execution is complete, Lambda returns the response to th
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1SAbg1PGvZZ4W6wH_y1O03DEyGs0LBamX)
 
-Benefits of using Lambda:
+### Benefits of using Lambda:
 
-Cost-effectiveness: Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
-You only pay for the Lambda functions that you use, so you can save money on infrastructure costs.
-Scalability: Lambda automatically scales your application based on the number of requests it receives. This means that you don't have to worry about provisioning or managing servers.
+**Cost-effectiveness:** Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
+-- You only pay for the Lambda functions that you use, so you can save money on infrastructure costs.
 
-Simplified deployment: With Lambda, you can deploy your code in seconds. This means that you can iterate and test your application more quickly.
+**Scalability:** Lambda automatically scales your application based on the number of requests it receives. This means that you don't have to worry about provisioning or managing servers.
 
-High availability: Lambda is designed to be highly available and fault-tolerant. This means that your application can handle failures without any downtime or disruption to your users.
+**Simplified deployment:** With Lambda, you can deploy your code in seconds. This means that you can iterate and test your application more quickly.
 
-Monitoring: AWS Lambda provides monitoring tools such as Amazon CloudWatch, which allows you to monitor the performance and health of your Lambda functions in real-time. This helps you detect and troubleshoot issues quickly.
+**High availability:** Lambda is designed to be highly available and fault-tolerant. This means that your application can handle failures without any downtime or disruption to your users.
+
+**Monitoring:** AWS Lambda provides monitoring tools such as Amazon CloudWatch, which allows you to monitor the performance and health of your Lambda functions in real-time. This helps you detect and troubleshoot issues quickly.
 
 
 [Technical Documentation](https://tinyurl.com/lambdatech1)
