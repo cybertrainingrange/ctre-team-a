@@ -1,75 +1,72 @@
-## Ameha
+## Ameha and Victor
 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1sXp4E9eUk_JUM53ruJKMpyH0AR0QD1N4)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1wzImfY5CJoWL2liw0uZ3c-TaLAogsmyb)
 
 
-
-This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
-
-For learning Linux and networking, some of the essential services include Amazon Elastic Compute Cloud (EC2), Amazon Virtual Private Cloud (VPC), AWS Identity and Access Management (IAM), and AWS security groups. EC2 instances provide an ideal platform for running Linux and practicing networking concepts. 
+# Amazon CloudWatch
 
 
+If you ever wonder how that AWS infrastructure you deployed was doing, or need to learn how to leverage Aws Cloudwatch, don't worry we got you covered. Amazon Cloud Watch automatically collects and provides metrics for CPU Utilization as well. Cloud Watch is a great way to measure and track metrics. Creating alarms is a way to accomplish this because you can watch metrics and send notifications or automatically change the resource you monitor when a certain threshold is exceeded. Cloudwatch offers a wide range of solutions for your infrastructure and gives you visibility into resource utilization, Application Performance, and operational health. Overall, Cloud watch is a great way to access your AWS resources in real-time to see what is happening, and also Cloud watch is a great way to provision what resources are using too much CPU and make changes as necessary.
 
-VPC stands for Virtual Private Cloud. It is a cloud computing service provided by Amazon Web Services (AWS) that enables users to launch their own isolated virtual network in the cloud. VPC provides a secure and configurable environment for users to launch their AWS resources, such as Amazon EC2 instances, RDS instances, and Elastic Load Balancers.
+Amazon CloudWatch is a monitoring and management service that provides data and actionable insights for AWS, hybrid, and on-premises applications and infrastructure resources. Amazon CloudWatch collects and visualizes real-time logs, metrics, and event data in automated dashboards to streamline your infrastructure and application maintenance.
 
-With VPC, users can define their own network topology, including IP address ranges, subnets, and route tables. Users can also configure network gateways, such as NAT gateways, VPN connections, and Direct Connect links, to connect their VPC to their on-premises network or other VPCs in the same region.
+Amazon CloudWatch provides a reliable, scalable, and flexible monitoring solution that you can start within minutes. You no longer need to set up, manage, and scale your own monitoring systems and infrastructure. This tool gives you the visibility you need to spot issues before they impact the business and allow you to improve your security posture and reduce the risk profile of your environment.
+
+Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. CloudWatch is used to collect and track metrics, collect and monitor log files, and set alarms.
+With CloudWatch, you can:
+Gain system-wide visibility into resource utilization.
+Monitor application performance.
+Monitor operational health.
+
+Amazon Cloud Watch provides real-time monitoring for Aws resources such as EC2 Instances, Elastic Block storage Volumes, Elastic Load Balancer, and Relational Database Service, to name a few. 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)   |
+|  ![App Screenshot](https://drive.google.com/uc?export=view&id=15dE076XRlDkw_tLJb3z6-eIr9ga1-4PL)   |
 | :-------------------------------- |
-|  IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources. |
+|  CloudWatch provides a centralized view of an AWS environment's operational health and performance, making it easier to detect issues, troubleshoot problems, and optimize resource utilization. It can also set alarms and automate actions based on defined thresholds and metrics. CloudWatch enables you to monitor your complete stack (applications, infrastructure, network, and services) and use alarms, logs, and events data.
+
+Some of the main features of AWS CloudWatch include: |
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1GS3j-8R-8XQdrrsjG9RUDG6u8wovxvhb)
+## CloudWatch Metrics: 
+CloudWatch can collect and store metrics from various AWS services and custom applications, which can be used to create dashboards and generate alarms. CloudWatch allows you to collect, monitor, and store metrics for various AWS resources and applications. Metrics are numerical data points that represent the performance of your system, such as CPU usage, network traffic, or disk space utilization. Metrics are services that send time-ordered data points to CloudWatch. You can view these metrics in graphical form in CloudWatch dashboards and set alarms to notify you when certain thresholds or conditions are met. CloudWatch Metrics can be collected from a wide range of AWS services, including Amazon EC2, S3, Amazon RDS, Amazon DynamoDB, Lambda, and more. For example EC2 metrics are sent every 5 minutes by default (free). Detailed EC2 monitoring sends every 1 minute (Chargeable).
+
+## CloudWatch Logs: 
+CloudWatch Logs centralizes logs from systems, applications, and AWS services. It is a centralized collection of system and application logs. CloudWatch can collect, monitor, and analyze logs from AWS resources and applications, providing insights into the system's behavior. CloudWatch also allows you to collect, monitor, and analyze logs from your AWS resources and applications. Logs are text-based data that record events and activities in your system, such as errors, requests, or transactions. CloudWatch Logs allows you to store and retain these logs for long periods and provides powerful search and filter capabilities to help you quickly find and analyze the data you need. You can also set up alarms based on log events, and use CloudWatch Logs to gain insights into the performance, availability, and security of your AWS environment.
+
+## CloudWatch Events: 
+CloudWatch Events delivers a stream of system events that describe changes in AWS resources. CloudWatch Events are systems events relating changes to AWS resources and can trigger actions. CloudWatch can capture and respond to events from various sources, such as AWS services, custom applications, or external systems, and trigger automated actions based on these events.CloudWatch Events lets you capture and respond to events from various sources, such as AWS services, custom applications, or external systems. Events indicate a change or activity in your system, such as creating a new EC2 instance or a failed deployment. CloudWatch Events can be used to trigger automated actions based on these events, such as running a Lambda function, sending a notification, or creating a backup. It can automate your workflows and reduce manual intervention in your system.
+
+## CloudWatch Alarms: 
+CloudWatch Alarms allows you to create alarms that notify you when certain thresholds or conditions are met, such as CPU usage, network traffic, or error rates. CloudWatch Alarms monitor metrics and initiate actions. CloudWatch alarms monitor metrics and can be configured to initiate actions automatically. Alarms can be based on metrics, logs, or events, and can be used to monitor the health and performance of your system. For example, you can create an alarm that triggers when the CPU usage of an EC2 instance exceeds a certain threshold or when the number of errors in your application logs exceeds a specific limit. CloudWatch Alarms can be integrated with other AWS services, such as Amazon SNS or AWS Lambda, to automate actions and alerts.
+There are two types of alarms:
+| - Metric Alarm: Performs one or more actions based on a single metric
+- Composite Alarm: Uses a rule expression and takes into account multiple alarms.
+Metric Alarm states:
+- OK - Metric is within a threshold
+- ALARM - Metric is outside a threshold
+- INSUFFICIENT_DATA - not enough data |
 
 
-AWS Web Application Firewall (WAF) for protecting web applications from web exploits. It allows organizations to protect their web applications by configuring customized security rules that can block incoming requests based on the IP address, country of origin, HTTP method, or payload content. AWS WAF rules can be updated on the fly, making it possible to respond quickly to new threats and exploits.
- 
+In summary, AWS CloudWatch is essential for monitoring, troubleshooting, and optimizing AWS resources and applications. It can help you identify issues before they impact your users and take proactive measures to ensure the availability, reliability, and performance of your AWS environment. CloudWatch is a powerful tool that provides comprehensive monitoring and observability capabilities for your AWS environment. It can help you identify and diagnose issues quickly, optimize your resource utilization, and ensure the availability and reliability of your system. 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1fYOHVNHMYNcGju2deGuYcASnRssMgZVD)
-
-S3 for storing and retrieving data in the cloud. It is designed with security as a top priority. S3 provides server-side encryption of data at rest by default, which ensures that data is encrypted when it is stored in S3. 
-
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1MqHIWbyHOpWxsHFm7UJQkFggAQtVyJqS)
-
-AWS Lambda is a serverless compute service offered by Amazon Web Services (AWS) that can be leveraged to improve Cybersecurity in networking. Lambda functions can be triggered by a variety of event sources, including AWS services such as S3, CloudWatch, and API Gateway. This feature allows it automate tasks such as file processing, log analysis, and data transformation.
-
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1R7nODj--Knk5pgZAGoK7nDBcojj9OBNm)
-
-For monitoring and analyzing infrastructure, AWS CloudWatch is a monitoring and logging service that provides metrics and logs for AWS resources. CloudWatch alarms and metrics can be used to monitor resource usage, performance, and availability of Linux-based applications and network infrastructure. AWS Network Access Control Lists (NACLs) and AWS Cost Explorer and AWS Budgets are also essential tools for securing network infrastructure and managing AWS costs, respectively.
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1ipiqZGNyAAfoWPoqrYHngUBFZSLQ0VUZ)
-
-Auto Scaling Group and Network Load Balancing are important components of cybersecurity because they help ensure high availability, provide elasticity, enable advanced traffic management, and improve monitoring capabilities for cloud-based applications. They help to prevent downtime due to denial of service attacks, automatically adjust resources to changing traffic patterns, route traffic to the appropriate instances, and provide detailed monitoring and logging capabilities to identify and respond to security events more quickly. 
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=19iIwXeBX2l52tRk82dwdOS1T9N9tjp6A)
-
-API Gateway is a fully managed service provided by AWS that enables developers to create, deploy, and manage APIs (Application Programming Interfaces) for their applications. It acts as a "front door" for applications, allowing clients to securely access and interact with the backend services and data sources. API Gateway is important in networking security because it provides several security features that help protect APIs and the backend resources they access. 
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1a_pL2obwm3GG2SUewhXorJ4RjcTJs5nI)
-
-AWS Trusted Advisor is a service provided by Amazon Web Services (AWS) that offers recommendations for optimizing AWS infrastructure across different areas, including network security in the cloud. Trusted Advisor helps users to improve the security and performance of their AWS resources and reduce costs by providing automated checks and recommendations based on AWS best practices.
-
-In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS.
 
 ## 🛠 Technical Documentation
-[Sample Documentation - Title will change](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
+[Sample Documentation - Title will change](https://docs.google.com/document/d/1fDODmdVfspMcIQxkZpRRMyq2a0zFhFwirc3aPRr1kMA/edit?usp=share_link)
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1h1RLDEQhaWG5_zyeYRMItsvt-keiNbOb)                   |
+
 | :-------------------------------- |
-|  IAM is a security service that facilitates the management of access to AWS resources securely, while AWS security groups are virtual firewalls that control access to EC2 instances and other AWS resources. IAM provides a range of features to control access to AWS resources, including policies, groups, and roles. Policies are JSON documents that specify permissions for AWS resources, while groups are collections of IAM users that share the same permissions. Roles are entities that define a set of permissions and can be assumed by trusted entities to access AWS resources. |
+
 
 ## LinkedIn page:
 
-![App Screenshot](https://www.linkedin.com/in/emdionisio/)
+![App Screenshot](https://www.linkedin.com/in/ameha-lemma/)
 
 
-- [LinkedIn](https://www.linkedin.com/in/emdionisio/)
-- [Trello Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
+- [LinkedIn](https://www.linkedin.com/in/ameha-lemma/)
+
 
 ## Team Members
 - Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
