@@ -29,7 +29,8 @@ Response: Once the code execution is complete, Lambda returns the response to th
 ### Benefits of using Lambda:
 
 **Cost-effectiveness:** Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
--- You only pay for the Lambda functions that you use, so you can save money on infrastructure costs.
+
+-You only pay for the Lambda functions that you use, so you can save money on infrastructure costs.
 
 **Scalability:** Lambda automatically scales your application based on the number of requests it receives. This means that you don't have to worry about provisioning or managing servers.
 
