@@ -22,13 +22,16 @@ Overall, S3 can backup data, be used as a storage, host software applications, c
 ## 🚀 About Us
 👩‍💻 **Ella Owens**
 
-In nibh mauris cursus mattis molestie a iaculis. Dolor morbi non arcu risus quis varius quam quisque. Massa massa ultricies mi quis hendrerit dolor magna eget. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Neque ornare aenean euismod elementum nisi quis eleifend. Sodales ut etiam sit amet nisl purus. Urna et pharetra pharetra massa. Viverra tellus in hac habitasse platea dictumst vestibulum. Arcu ac tortor dignissim convallis aenean et tortor at risus. Commodo quis imperdiet massa tincidunt nunc pulvinar. Proin libero nunc consequat interdum varius sit amet mattis. Orci phasellus egestas tellus rutrum tellus pellentesque. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Molestie nunc non blandit massa enim nec dui. Ultrices sagittis orci a scelerisque purus semper eget duis. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros. Quisque non tellus orci ac auctor augue mauris augue. Libero nunc consequat interdum varius sit amet mattis vulputate.
+
+Hi! I am currently a cyber security fellow, in the TKH Innovation Fellowship, learning the principles of cybersecurity and preforming security operation and optimization for security functions in AWS cloud. I have participated in a collaborative team to demonstrate an understanding and application of AWS services for building a secure lab in the AWS Cloud environment. The project involved leveraging AWS services to create a secure infrastructure that can protect against various cyber threats and attacks. For the final months of this cyber security fellowship, I am joining other students to create a capstone project. GitHub allows us to document our work while demonstrating our understanding of what we have learned and continue to learn. 
 
 
 👨‍💻 **Neiman Phillips**
 
-Nunc mi ipsum faucibus vitae aliquet. Egestas congue quisque egestas diam in arcu cursus euismod quis. Et malesuada fames ac turpis egestas sed tempus. Leo in vitae turpis massa sed elementum tempus egestas. Felis donec et odio pellentesque diam volutpat commodo. Nunc non blandit massa enim nec. Ac turpis egestas sed tempus urna et pharetra. Turpis egestas sed tempus urna et pharetra. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Arcu cursus euismod quis viverra nibh. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Facilisis mauris sit amet massa vitae. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Nibh nisl condimentum id venenatis a condimentum. Duis at consectetur lorem donec. Viverra aliquet eget sit amet tellus cras adipiscing enim. Eget gravida cum sociis natoque penatibus et magnis dis. Euismod quis viverra nibh cras pulvinar mattis nunc.
+
+
+
 ## 🔗 Profile
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) **Ella Owens**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ellahowens) **Ella Owens**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) **Neiman Phillips**
