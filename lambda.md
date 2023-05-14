@@ -24,7 +24,7 @@ Compute Resources: AWS Lambda manages the underlying compute resources required 
 Response: Once the code execution is complete, Lambda returns the response to the triggering source or performs any specified actions. For example, it can return an HTTP response, update data in a database, or trigger subsequent Lambda functions.
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1SAbg1PGvZZ4W6wH_y1O03DEyGs0LBamX)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1J9v0iQ5Xm3CWJ1hwYYfD_KcpPjqRBArV)
 
 ### Benefits of using Lambda:
 
