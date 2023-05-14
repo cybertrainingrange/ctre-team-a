@@ -1,6 +1,6 @@
 # Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
 
-![img](https://drive.google.com/uc?export=view&id=1K1g-aEWpIoXgJE4rRq0DBYUWCmJ060HW)#center |
+![img](https://drive.google.com/uc?export=view&id=1K1g-aEWpIoXgJE4rRq0DBYUWCmJ060HW#center)
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1K1g-aEWpIoXgJE4rRq0DBYUWCmJ060HW) |
 | :-------------------------------- |
