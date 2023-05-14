@@ -42,3 +42,16 @@ Response: Once the code execution is complete, Lambda returns the response to th
 
 
 [Technical Documentation](https://tinyurl.com/lambdatech1)
+
+
+## 🔗 Authors: 👐
+
+### Emilie Dionisio👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
+
+### Ameha Lewde👨
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
+- [@Ameha Lewde](https://github.com/ameha01)
+
+
