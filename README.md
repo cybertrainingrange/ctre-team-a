@@ -64,7 +64,7 @@ In summary, AWS offers a comprehensive set of services and tools that Cybersecur
 
 ## Technical Documentation 🛠 
 
-[Sample Documentation - Title will change](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
+[Team A - AWS Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
 
 
 
