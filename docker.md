@@ -23,6 +23,7 @@ These benefits make Docker a powerful tool for simplifying application developme
 ## Here's how Docker interacts with Linux and the networking environment:
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AxGl7IbhOdY-JkdKLcSyiOy65BGxYatU) |
 | ----------------------- |
+
 | - Containerization: Docker relies on Linux kernel features, such as namespaces and control groups (cgroups), to provide containerization. Namespaces provide process and resource isolation, ensuring that each container has its own isolated environment for processes, file systems, hostnames, IPC, and network interfaces. Cgroups allow Docker to manage resource allocation and constraints for containers, ensuring fair resource distribution. 
 - Docker Engine: The Docker engine runs as a service on Linux and manages the creation, execution, and management of containers. It utilizes the Linux kernel's capabilities to start, stop, and monitor containers. The Docker daemon, which is part of the Docker engine, runs as a background process on the host Linux system, interacting with the kernel and managing containers' lifecycle. 
 - Linux Networking: Docker provides networking functionality for containers using Linux networking capabilities. By default, Docker sets up a virtual network bridge called "docker0" on the host system. Containers are attached to this bridge and assigned unique IP addresses within the bridge network. This enables containers to communicate with each other and with the host system.
