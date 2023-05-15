@@ -7,7 +7,7 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1JxAUYkkbTpvajXlf3I5LTmHiig65FWRH) |
 | ----------------------- |
- 
+
 ## How does Lambda function? 
 | **Trigger:** A Lambda function is triggered by an event. The event can come from various sources, such as an HTTP request, changes to data in an AWS service (e.g., S3, DynamoDB), or a scheduled time-based trigger.
 **Function Execution:** When the event occurs, AWS Lambda automatically provisions the necessary compute resources and executes the corresponding Lambda function. Each function is independent and isolated from other functions, ensuring scalability and security.
@@ -21,8 +21,9 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 
 ### Benefits of using Lambda:
+| ----------------------- |
 
-**Cost-effectiveness:** Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
+| **Cost-effectiveness:** Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
 
 - You only pay for the Lambda functions that you use, so you can save money on infrastructure costs.
 
@@ -32,7 +33,7 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 **High availability:** Lambda is designed to be highly available and fault-tolerant. This means that your application can handle failures without any downtime or disruption to your users.
 
-**Monitoring:** AWS Lambda provides monitoring tools such as Amazon CloudWatch, which allows you to monitor the performance and health of your Lambda functions in real-time. This helps you detect and troubleshoot issues quickly.
+**Monitoring:** AWS Lambda provides monitoring tools such as Amazon CloudWatch, which allows you to monitor the performance and health of your Lambda functions in real-time. This helps you detect and troubleshoot issues quickly. |
 
 
 [Technical Documentation](https://tinyurl.com/lambdatech1)
