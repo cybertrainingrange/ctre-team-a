@@ -19,7 +19,7 @@ Linux is a powerful operating system that can be used for a variety of tasks. It
 
 
 
-## How did Linux start? 
+## How did Linux started? 
 
 Linux was created in 1991 by Linus Torvalds, a Finnish student at the University of Helsinki. Torvalds was inspired by the Unix operating system, but he wanted to create an operating system that was free and open-source. He released the first version of Linux in 1991, and it quickly became popular among computer enthusiasts.
 
