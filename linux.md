@@ -78,7 +78,9 @@ There are numerous distributions, commonly known as "distros," of Linux, each wi
 [Linux Documentation](https://docs.google.com/document/d/1-TJvuR5d1Gncr2R3XhttEq79L8igI14CT5ef-7iO-dE/edit?usp=share_link)
 
 
+## 🔗 Author: 👐
 
-## 🔗 LinkedIn Profile
+### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
 
