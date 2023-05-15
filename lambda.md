@@ -50,7 +50,7 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
 - [@Emilie Dionisio](https://github.com/emiliedionisio)
 
-### Ameha Lewde👨
+### Ameha Zewde Lemma👨
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
 - [@Ameha Lewde](https://github.com/ameha01)
 
