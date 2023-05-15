@@ -34,7 +34,7 @@ Today, Linux is one of the most popular operating systems in the world. It is us
 There are numerous distributions, commonly known as "distros," of Linux, each with its own characteristics, goals, and target audiences. These distributions package the Linux kernel along with a selection of software, tools, and user interfaces. Here are some of the most popular Linux distributions:
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1sKjeGnzk4VcJJVPOMdZa5SXT8N7bKNZA) |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1Jub5UC_uM5GXwMhtaCqsePWo1q7hHa_p) |
 | ----------------------- |
 | Ubuntu: Ubuntu is one of the most widely used Linux distributions, known for its user-friendly approach and focus on ease of use. It offers a polished desktop environment and a vast software repository. Ubuntu is available in several editions, including Ubuntu Desktop, Ubuntu Server, Ubuntu MATE, Kubuntu, Xubuntu, and more. |
 
