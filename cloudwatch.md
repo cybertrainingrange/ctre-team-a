@@ -1,10 +1,7 @@
-#AWS CloudWatch
+# Amazon CloudWatch
 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1wzImfY5CJoWL2liw0uZ3c-TaLAogsmyb)
-
-
-# Amazon CloudWatch
 
 
 If you ever wonder how that AWS infrastructure you deployed was doing, or need to learn how to leverage Aws Cloudwatch, don't worry we got you covered. Amazon Cloud Watch automatically collects and provides metrics for CPU Utilization as well. Cloud Watch is a great way to measure and track metrics. Creating alarms is a way to accomplish this because you can watch metrics and send notifications or automatically change the resource you monitor when a certain threshold is exceeded. Cloudwatch offers a wide range of solutions for your infrastructure and gives you visibility into resource utilization, Application Performance, and operational health. Overall, Cloud watch is a great way to access your AWS resources in real-time to see what is happening, and also Cloud watch is a great way to provision what resources are using too much CPU and make changes as necessary.
