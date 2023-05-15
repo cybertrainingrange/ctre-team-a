@@ -5,8 +5,8 @@
 | AWS Lambda is a compute service that operates without the need for servers. It executes your code when specific events occur and takes care of managing the underlying computing resources. These events can encompass various changes in state, such as a user adding an item to a shopping cart on an online store. By utilizing AWS Lambda, you can add customized logic to enhance other AWS services or develop your own backend services that operate at the same scale, performance, and security level as AWS itself. AWS Lambda autonomously executes code in response to different types of events, such as HTTP requests through Amazon API Gateway, modifications to objects in Amazon Simple Storage Service (Amazon S3) buckets, updates to tables in Amazon DynamoDB, and state transitions in AWS Step Functions.
 Lambda runs your code on resilient computing infrastructure and takes care of all administrative tasks related to your computing resources. This includes maintenance of servers and operating systems, provisioning and scaling of capacity as needed, deployment of code and security patches, and monitoring and logging of your code. Your responsibility is simply to provide the code. |
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1JxAUYkkbTpvajXlf3I5LTmHiig65FWRH) |
 | ----------------------- |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1JxAUYkkbTpvajXlf3I5LTmHiig65FWRH) |
 | ----------------------- |
  ## How does Lambda function? 
 | **Trigger:** A Lambda function is triggered by an event. The event can come from various sources, such as an HTTP request, changes to data in an AWS service (e.g., S3, DynamoDB), or a scheduled time-based trigger.
