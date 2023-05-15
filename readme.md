@@ -8,6 +8,7 @@ With the growing demand, companies are working effortlessly to catch up and util
 When a company grows and begins to receive lots of revenue and traffic, this can become overwhelming and difficult to balance. Network Load Balancers is a useful tool for this. It is a tool that helps manage a large number of traffic targeted towards a specific web application by allowing you to make a target group to help direct traffic and allow you to direct the traffic where you want it to go. |
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1c1vTNbBW3Ql83VTxq_pOG2vklHe-1q9L) |
 | ----------------------- |
 | Communicating with other companies and accessing foreign data and business logic is an important part of networking. Finding means to do this in the most secure way with the least amount of vulnerabilities is vital for users. A service that is useful for this API gateway which is a service that acts as the entry point of communication between two users/applications. API gateway offers numerous benefits, including improved scalability, security, and flexibility. 
@@ -15,10 +16,12 @@ Demand changes in companies, and it is necessary that the company is able to acc
 Managing various different computing resources takes a lot of time and can be what breaks or makes a company's success as mentioned. Imagine if there was a service offered that manages underlying computing resources automatically based on events a user experiences. Look no further, AWS Lambda is the service for you. AWS Lambda is considered a serverless computing service and executes certain functions and commands based on the activity of the user. |
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1h8hzQFZ3kC9Z_ETDG4kMqUFfeKMyI8zX) |
 | ----------------------- |
 | Although it is great to have applications that automatically take care of the work for users, it is important for users to be aware of where these resources are being allocated and why. An application that helps measure and track metrics is Cloud watch, this will give you an overview of what resources are needed more or less. It offers monitoring and management services and allows users to get a thorough breakdown of what is going on behind the scenes with your resources.
 Being able to organize a user's resources in a fashion that utilizes the least amount of memory, causes the least amount of financial stress and is the most optimal for organization and security sounds like an impossible dream for some users and companies, but fortunately we were able to compile some resources that can actually make this possible. |
+
 
 
 
