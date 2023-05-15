@@ -7,6 +7,7 @@
 
 
 
+
 Linux is a free and open-source operating system (OS) that is based on Unix. It was developed by Linus Torvalds in 1991 and is now used by millions of people around the world. Linux is known for its stability, security, and flexibility. It can be used on a wide variety of devices, including computers, servers, and embedded systems.
 
 One of the main advantages of Linux is that it is free to use and distribute. This means that anyone can download and install it, without having to pay any licensing fees. Linux is also open-source, which means that the source code is freely available for anyone to view and modify. This has led to a large community of developers who contribute to the development of Linux.
