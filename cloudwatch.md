@@ -1,5 +1,5 @@
 # Amazon CloudWatch
-**by: Ameha Zewde Lemma and Victor Walker, IV. 
+**by: Ameha Zewde Lemma and Victor Walker, IV.**
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1wzImfY5CJoWL2liw0uZ3c-TaLAogsmyb)
 
