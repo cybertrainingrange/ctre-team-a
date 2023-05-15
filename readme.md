@@ -29,6 +29,7 @@ Another amazing storage service is S3, which stands for Amazon Simple Storage Se
 
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AR8bVLOStAjSUxMY6S780mxU7Sh_7vBM) |
 | ----------------------- |
 | AWS offers a wide variety of other services that assist in assuring the success of users experiences such as VPC, bastion hosts, subnets. VPCs, or virtual private networks, allow users to create an isolated private network and when launched it is separate from the internet but can be connected through an internet gateway or nat gateway. Subnets can be created within VPCs to divide and control resources and network traffic. A bastion host is a server that can be used to retrieve resources for a private subnet to help reduce the private subnets exposure. All of these tools can be extremely useful for the scalability of a company while also helping with networking.
