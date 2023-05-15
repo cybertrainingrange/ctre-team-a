@@ -35,3 +35,9 @@ These benefits make Docker a powerful tool for simplifying application developme
 By leveraging Linux kernel features and networking capabilities, Docker provides a robust and efficient containerization solution that ensures isolation, resource management, and networking capabilities for running applications within containers.
 
 [See Technical Documentation](https://tinyurl.com/dock3rtech)
+
+## 🔗 Author: 👐
+
+### Emilie Dionisio👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
