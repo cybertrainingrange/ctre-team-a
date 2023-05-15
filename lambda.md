@@ -7,7 +7,7 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1JxAUYkkbTpvajXlf3I5LTmHiig65FWRH) |
 | ----------------------- |
-| ## How does Lambda function? |
+ ## How does Lambda function? 
 | **Trigger:** A Lambda function is triggered by an event. The event can come from various sources, such as an HTTP request, changes to data in an AWS service (e.g., S3, DynamoDB), or a scheduled time-based trigger.
 **Function Execution:** When the event occurs, AWS Lambda automatically provisions the necessary compute resources and executes the corresponding Lambda function. Each function is independent and isolated from other functions, ensuring scalability and security.
 **Code Execution:** The Lambda function executes the code you have provided in the chosen runtime environment (e.g., Node.js, Python, Java). It performs the necessary operations based on the event and any additional input or context provided.
