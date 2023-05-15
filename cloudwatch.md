@@ -54,27 +54,17 @@ In summary, AWS CloudWatch is essential for monitoring, troubleshooting, and opt
 
 
 ## 🛠 Technical Documentation
-[Sample Documentation - Title will change](https://docs.google.com/document/d/1fDODmdVfspMcIQxkZpRRMyq2a0zFhFwirc3aPRr1kMA/edit?usp=share_link)
+[AWS CloudWatch Summary](https://docs.google.com/document/d/1GDviH7ZmXk3-k1BgSpSs8wmL0UZIa83SvoWhLk0ZOWE/edit?usp=share_link)
+[AWS CloudWatch Technical Documentation](https://docs.google.com/document/d/1fDODmdVfspMcIQxkZpRRMyq2a0zFhFwirc3aPRr1kMA/edit?usp=share_link)
 
 
-| :-------------------------------- |
+## 🔗 Authors: 👐
 
+### Ameha Zewde Lemma 👨
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
+- [@Ameha Zewde Lemma](https://github.com/orgs/cybertrainingrange/people/ameha01)
 
-## LinkedIn page:
+### Victor Walker👨
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-walker-iv-b2001118a/)
+- [@Victor Walker](https://github.com/orgs/cybertrainingrange/people/vick627)
 
-![App Screenshot](https://www.linkedin.com/in/ameha-lemma/)
-
-
-- [LinkedIn](https://www.linkedin.com/in/ameha-lemma/)
-
-
-## Team Members
-- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://www.github.com/)
-- Mina [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
-- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
