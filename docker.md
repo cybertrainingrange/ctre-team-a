@@ -4,17 +4,17 @@
 | ----------------------- |
 | Docker is an open-source platform that simplifies application deployment and management by using containers. Containers are isolated environments that package applications and their dependencies, ensuring consistent performance across different systems. Docker automates the process of creating, deploying, and running applications, making them portable and reproducible. |
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1h12PjKaZs9HRJqysAmyF-f5neTii9zlY)
-
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1h12PjKaZs9HRJqysAmyF-f5neTii9zlY) |
+| ----------------------- |
 ## Benefits and Advantages of using Docker:
 
-- Portability: Docker containers are highly portable, meaning you can package an application and its dependencies into a container once and run it consistently on any system that supports Docker. This eliminates the "it works on my machine" problem and ensures consistent behavior across different environments, from development to production.
+|- Portability: Docker containers are highly portable, meaning you can package an application and its dependencies into a container once and run it consistently on any system that supports Docker. This eliminates the "it works on my machine" problem and ensures consistent behavior across different environments, from development to production.
 - Isolation: Docker containers provide strong isolation, allowing applications to run in their own isolated environments. Each container has its own file system, processes, and network interfaces, ensuring that applications and their dependencies do not conflict with each other or with the host system.
 - Efficiency: Docker containers are lightweight and efficient. They share the host system's OS kernel, which means they have a minimal memory footprint and start quickly. Docker also utilizes a layered file system and image caching, allowing for efficient storage and sharing of container images.
 - Scalability: Docker facilitates easy scaling of applications. You can spin up multiple containers based on the same image, distributing the workload across them. Docker also integrates well with container orchestration platforms like Kubernetes, enabling automatic scaling and load balancing of containers based on demand.
 - Version Control and Rollbacks: Docker provides version control for container images. You can tag and version your images, making it easy to track changes and roll back to previous versions if needed. This makes application updates and deployments more manageable and reversible.
 - Collaboration and Reproducibility: With Docker, developers can easily share and collaborate on application environments. Docker images serve as a self-contained package with all the necessary dependencies, ensuring that anyone who runs the container gets the exact same environment and behavior, regardless of their underlying system.
-- DevOps and Continuous Integration/Continuous Deployment (CI/CD): Docker plays a crucial role in modern DevOps practices. It allows for the creation of reproducible build environments and facilitates the integration of containers into CI/CD pipelines. Docker images can be automatically built, tested, and deployed, streamlining the software delivery process.
+- DevOps and Continuous Integration/Continuous Deployment (CI/CD): Docker plays a crucial role in modern DevOps practices. It allows for the creation of reproducible build environments and facilitates the integration of containers into CI/CD pipelines. Docker images can be automatically built, tested, and deployed, streamlining the software delivery process. |
 
 These benefits make Docker a powerful tool for simplifying application development, deployment, and management, promoting consistency, efficiency, and scalability throughout the software lifecycle.
 
