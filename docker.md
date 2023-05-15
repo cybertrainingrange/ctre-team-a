@@ -1,8 +1,10 @@
 # Docker ⛵
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1GYOnnEnxM-GP9asH7_14axUHBzadYbaj) |
 | ----------------------- |
 | Docker is an open-source platform that simplifies application deployment and management by using containers. Containers are isolated environments that package applications and their dependencies, ensuring consistent performance across different systems. Docker automates the process of creating, deploying, and running applications, making them portable and reproducible. |
+
 
 
 ## Benefits and Advantages of using Docker:
@@ -20,6 +22,7 @@
 These benefits make Docker a powerful tool for simplifying application development, deployment, and management, promoting consistency, efficiency, and scalability throughout the software lifecycle.
 
 
+
 ## Here's how Docker interacts with Linux and the networking environment:
 |![App Screenshot](https://drive.google.com/uc?export=view&id=1AxGl7IbhOdY-JkdKLcSyiOy65BGxYatU) |
 | ----------------------- |
@@ -33,6 +36,7 @@ These benefits make Docker a powerful tool for simplifying application developme
 - Network Plugins: Docker integrates with various networking plugins and technologies through the Container Network Interface (CNI). CNI provides a standard interface for configuring network interfaces of containers. Docker can seamlessly work with different network plugins, allowing for advanced networking configurations, such as overlay networks, software-defined networking (SDN), and integration with cloud networking services.
 
 By leveraging Linux kernel features and networking capabilities, Docker provides a robust and efficient containerization solution that ensures isolation, resource management, and networking capabilities for running applications within containers.
+
 
 [See Technical Documentation](https://tinyurl.com/dock3rtech)
 
