@@ -17,6 +17,7 @@ Managing various different computing resources takes a lot of time and can be wh
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1h8hzQFZ3kC9Z_ETDG4kMqUFfeKMyI8zX) |
 | ----------------------- |
+
 | Although it is great to have applications that automatically take care of the work for users, it is important for users to be aware of where these resources are being allocated and why. An application that helps measure and track metrics is Cloud watch, this will give you an overview of what resources are needed more or less. It offers monitoring and management services and allows users to get a thorough breakdown of what is going on behind the scenes with your resources.
 Being able to organize a user's resources in a fashion that utilizes the least amount of memory, causes the least amount of financial stress and is the most optimal for organization and security sounds like an impossible dream for some users and companies, but fortunately we were able to compile some resources that can actually make this possible. |
 
@@ -24,6 +25,7 @@ Being able to organize a user's resources in a fashion that utilizes the least a
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1x-EfWUHT42SNK4WOrASbz6Pg3uIV5K8r) |
 | ----------------------- |
+
 | One of these applications is Docker, which makes managing applications and their deployment simple by the use of containers. A container is an isolated environment that acts as a package which holds certain user applications and resources. These containers are portable and reproducible.. 
 Another amazing storage service is S3, which stands for Amazon Simple Storage Service. You might be wondering what makes S3 so unique. S3 does not store any files in a file system, it actually converts them and then stores them as digital objects. This technique is the reason users can upload their documents and files in the cloud storage system like they would with google drive or dropbox. |
 
@@ -32,6 +34,7 @@ Another amazing storage service is S3, which stands for Amazon Simple Storage Se
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AR8bVLOStAjSUxMY6S780mxU7Sh_7vBM) |
 | ----------------------- |
+
 | AWS offers a wide variety of other services that assist in assuring the success of users experiences such as VPC, bastion hosts, subnets. VPCs, or virtual private networks, allow users to create an isolated private network and when launched it is separate from the internet but can be connected through an internet gateway or nat gateway. Subnets can be created within VPCs to divide and control resources and network traffic. A bastion host is a server that can be used to retrieve resources for a private subnet to help reduce the private subnets exposure. All of these tools can be extremely useful for the scalability of a company while also helping with networking.
 An essential part to security in your company's environment online is to ensure you can manage your network traffic, where your data can be sent, and who can have access to your data. Security groups allow you to implement this on your AWS cloud account. It allows you to control inbound and outbound traffic to different ec2 instances and set permissions.
 Having a good database service is essential in the client-serving side of computing. Dyanmo DB and Amazon RDS are both useful databaseservices that make administration more manageable and are both highly scalable and reliable. These tools are available and offered by AWS. The main difference between these two tools is Amazon RDS is SQL based meanwhile Dyanmo DB is used for NoSQL data. |
@@ -40,6 +43,7 @@ Having a good database service is essential in the client-serving side of comput
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1B4e3ojE-_lkqS3sHHXLvldhyHCsccME2)|
 | ----------------------- |
+
 | For a user to be able to navigate all these applications and  web services they would need an incredible operating system that allows you to have a secure environment, high speed, and a good amount of memory and storage. Linux operating system is a free and open source operating system. Yes, free. One of the biggest pros to linux outside of it being free to download and use, is that it works on on the surface layers of the OS model and is downloaded on with its own kernel embedded in it already. This is great for users who just want to experiment with a new OS without buying a new computer or changing their whole system. Linux can be downloaded on a virtual box or container such as docker and can be accessed through there. As you can see, linux is portable and has good accessibility.
 These are just some of the few tools that can be utilized to help you be proficient in the online world. Overall, our goal has been to compile some incredible features to benefit others and summarize it in a concise way which is easy for people to comprehend. Becoming confident in the online world of networking and knowing how to make your business scalable are essential for success. By utilizing these tools, you will be able to succeed in the cyber world. |
 
