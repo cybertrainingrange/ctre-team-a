@@ -17,7 +17,6 @@ Managing various different computing resources takes a lot of time and can be wh
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1h8hzQFZ3kC9Z_ETDG4kMqUFfeKMyI8zX) |
 | ----------------------- |
-
 | Although it is great to have applications that automatically take care of the work for users, it is important for users to be aware of where these resources are being allocated and why. An application that helps measure and track metrics is Cloud watch, this will give you an overview of what resources are needed more or less. It offers monitoring and management services and allows users to get a thorough breakdown of what is going on behind the scenes with your resources.
 Being able to organize a user's resources in a fashion that utilizes the least amount of memory, causes the least amount of financial stress and is the most optimal for organization and security sounds like an impossible dream for some users and companies, but fortunately we were able to compile some resources that can actually make this possible. |
 
