@@ -21,10 +21,12 @@ Managing various different computing resources takes a lot of time and can be wh
 Being able to organize a user's resources in a fashion that utilizes the least amount of memory, causes the least amount of financial stress and is the most optimal for organization and security sounds like an impossible dream for some users and companies, but fortunately we were able to compile some resources that can actually make this possible. |
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1x-EfWUHT42SNK4WOrASbz6Pg3uIV5K8r) |
 | ----------------------- |
 | One of these applications is Docker, which makes managing applications and their deployment simple by the use of containers. A container is an isolated environment that acts as a package which holds certain user applications and resources. These containers are portable and reproducible.. 
 Another amazing storage service is S3, which stands for Amazon Simple Storage Service. You might be wondering what makes S3 so unique. S3 does not store any files in a file system, it actually converts them and then stores them as digital objects. This technique is the reason users can upload their documents and files in the cloud storage system like they would with google drive or dropbox. |
+
 
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AR8bVLOStAjSUxMY6S780mxU7Sh_7vBM) |
