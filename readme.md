@@ -42,6 +42,7 @@ Having a good database service is essential in the client-serving side of comput
 
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1B4e3ojE-_lkqS3sHHXLvldhyHCsccME2)|
 | ----------------------- |
 | For a user to be able to navigate all these applications and  web services they would need an incredible operating system that allows you to have a secure environment, high speed, and a good amount of memory and storage. Linux operating system is a free and open source operating system. Yes, free. One of the biggest pros to linux outside of it being free to download and use, is that it works on on the surface layers of the OS model and is downloaded on with its own kernel embedded in it already. This is great for users who just want to experiment with a new OS without buying a new computer or changing their whole system. Linux can be downloaded on a virtual box or container such as docker and can be accessed through there. As you can see, linux is portable and has good accessibility.
