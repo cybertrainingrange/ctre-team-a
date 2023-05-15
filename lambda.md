@@ -21,7 +21,6 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 
 ### Benefits of using Lambda:
-| ----------------------- |
 
 | **Cost-effectiveness:** Lambda allows you to pay only for the compute time that you consume. This can result in significant cost savings, especially if you have irregular traffic patterns. 
 
