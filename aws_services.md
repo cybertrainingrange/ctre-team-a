@@ -1,4 +1,4 @@
-# Cyber Range Team Capstone Project Summary - Sprint 3 (Team A)
+# Cyber Range Team Capstone Project AWS Services - Sprint 3 (Team A)
 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1VdFCZd6PrMYDozUBBNoPVP5pq0ge72-I)
@@ -61,27 +61,10 @@ Buckets act as the receptacles for objects and can be created in multiple quanti
 |  Auto Scaling Group and Network Load Balancing are important components of cybersecurity because they help ensure high availability, provide elasticity, enable advanced traffic management, and improve monitoring capabilities for cloud-based applications. They help to prevent downtime due to denial of service attacks, automatically adjust resources to changing traffic patterns, route traffic to the appropriate instances, and provide detailed monitoring and logging capabilities to identify and respond to security events more quickly. 
 In summary, AWS offers a comprehensive set of services and tools that Cybersecurity fellows can use to learn about Linux and networking. By leveraging AWS services like EC2, VPC, IAM, security groups, WAF, S3, Lambda, Auto Scaling Groups, Network Load Balancing, API Gateway, NACLs, CloudWatch, Trusted Advisor, and Cost Explorer and Budgets, Cybersecurity fellows can gain practical knowledge and experience in managing and securing infrastructure in AWS. |
 
+## Techincal Summary 📘
+[Technical Summary] (readme.md)
 
 ## Technical Documentation 🛠 
 
 [Team A - AWS Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
 
-
-
-## Agile Framework ⚓ 
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
-
-
-- [Trello Schedule](https://drive.google.com/file/d/14K6gWdah9guLrlCMnA5dyh4FLPd7AR0V/view?usp=share_link)
-
-## Team A Members 👩‍💻|👨‍💻
-- Ameha [@ameha01](https://github.com/ameha01)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emiliedionisio)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://github.com/JHamIam)
-- Mina [@vick627](https://github.com/orgs/)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/bull-in-the-heather)
-- Victor [@vick627](https://github.com/vick627)
