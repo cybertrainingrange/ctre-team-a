@@ -1,6 +1,7 @@
 # AWS Services - Sprint 3 (Team A)
 
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1VdFCZd6PrMYDozUBBNoPVP5pq0ge72-I)
 
 
