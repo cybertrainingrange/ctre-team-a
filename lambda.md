@@ -16,7 +16,8 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 **Response:** Once the code execution is complete, Lambda returns the response to the triggering source or performs any specified actions. For example, it can return an HTTP response, update data in a database, or trigger subsequent Lambda functions. |
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1J9v0iQ5Xm3CWJ1hwYYfD_KcpPjqRBArV)
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1J9v0iQ5Xm3CWJ1hwYYfD_KcpPjqRBArV) |
+| ----------------------- |
 
 
 ### Benefits of using Lambda:
