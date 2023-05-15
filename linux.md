@@ -59,7 +59,7 @@ There are numerous distributions, commonly known as "distros," of Linux, each wi
 | ----------------------- |
 | Arch Linux: Arch Linux is a lightweight and highly customizable distribution that follows a "do-it-yourself" philosophy. It provides a minimalist base system and a rolling release model, allowing users to continuously update their installations with the latest software versions. |
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1EK4yqFxVwTp0uFWonK0E2B49dmXRpT8Q))
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1EK4yqFxVwTp0uFWonK0E2B49dmXRpT8Q)
 | ----------------------- |
 | openSUSE: openSUSE is a user-friendly distribution that offers two main editions: Leap and Tumbleweed. Leap is a stable release based on the tested packages from SUSE Linux Enterprise, while Tumbleweed is a rolling release with the latest software updates. openSUSE focuses on ease of use, flexibility, and community involvement. |
 
