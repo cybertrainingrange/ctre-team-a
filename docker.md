@@ -1,8 +1,8 @@
 # Docker ⛵
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1GYOnnEnxM-GP9asH7_14axUHBzadYbaj)
-
-Docker is an open-source platform that simplifies application deployment and management by using containers. Containers are isolated environments that package applications and their dependencies, ensuring consistent performance across different systems. Docker automates the process of creating, deploying, and running applications, making them portable and reproducible.
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1GYOnnEnxM-GP9asH7_14axUHBzadYbaj) |
+| ----------------------- |
+| Docker is an open-source platform that simplifies application deployment and management by using containers. Containers are isolated environments that package applications and their dependencies, ensuring consistent performance across different systems. Docker automates the process of creating, deploying, and running applications, making them portable and reproducible. |
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1h12PjKaZs9HRJqysAmyF-f5neTii9zlY)
 
