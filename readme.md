@@ -8,12 +8,12 @@ With the growing demand, companies are working effortlessly to catch up and util
 When a company grows and begins to receive lots of revenue and traffic, this can become overwhelming and difficult to balance. Network Load Balancers is a useful tool for this. It is a tool that helps manage a large number of traffic targeted towards a specific web application by allowing you to make a target group to help direct traffic and allow you to direct the traffic where you want it to go. |
 
 
-
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1c1vTNbBW3Ql83VTxq_pOG2vklHe-1q9L) |
 | ----------------------- |
 | Communicating with other companies and accessing foreign data and business logic is an important part of networking. Finding means to do this in the most secure way with the least amount of vulnerabilities is vital for users. A service that is useful for this API gateway which is a service that acts as the entry point of communication between two users/applications. API gateway offers numerous benefits, including improved scalability, security, and flexibility. 
 Demand changes in companies, and it is necessary that the company is able to acclimate and adjust with the changing demands. Autoscaling groups can be used on cloud computing services to allow users to automatically adjust resources such as virtual machines or containers as changes occur within their company.
 Managing various different computing resources takes a lot of time and can be what breaks or makes a company's success as mentioned. Imagine if there was a service offered that manages underlying computing resources automatically based on events a user experiences. Look no further, AWS Lambda is the service for you. AWS Lambda is considered a serverless computing service and executes certain functions and commands based on the activity of the user. |
+
 
 
 
