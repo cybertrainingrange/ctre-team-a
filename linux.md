@@ -1,8 +1,10 @@
 
-# What is the Linux Operating System?
+# What is Linux Operating System?
+
 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1Av_9uThYhgi6j8LaDz5_Uk9g3YWKvkIn)
+
 
 
 Linux is a free and open-source operating system (OS) that is based on Unix. It was developed by Linus Torvalds in 1991 and is now used by millions of people around the world. Linux is known for its stability, security, and flexibility. It can be used on a wide variety of devices, including computers, servers, and embedded systems.
