@@ -1,10 +1,10 @@
 # AWS Lambda👋
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1P8T9D5CDwBAkHmjizKKNx03h2eIJjLEG)
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1P8T9D5CDwBAkHmjizKKNx03h2eIJjLEG) |
+| ----------------------- |
+| AWS Lambda is a compute service that operates without the need for servers. It executes your code when specific events occur and takes care of managing the underlying computing resources. These events can encompass various changes in state, such as a user adding an item to a shopping cart on an online store. By utilizing AWS Lambda, you can add customized logic to enhance other AWS services or develop your own backend services that operate at the same scale, performance, and security level as AWS itself. AWS Lambda autonomously executes code in response to different types of events, such as HTTP requests through Amazon API Gateway, modifications to objects in Amazon Simple Storage Service (Amazon S3) buckets, updates to tables in Amazon DynamoDB, and state transitions in AWS Step Functions.
 
-AWS Lambda is a compute service that operates without the need for servers. It executes your code when specific events occur and takes care of managing the underlying computing resources. These events can encompass various changes in state, such as a user adding an item to a shopping cart on an online store. By utilizing AWS Lambda, you can add customized logic to enhance other AWS services or develop your own backend services that operate at the same scale, performance, and security level as AWS itself. AWS Lambda autonomously executes code in response to different types of events, such as HTTP requests through Amazon API Gateway, modifications to objects in Amazon Simple Storage Service (Amazon S3) buckets, updates to tables in Amazon DynamoDB, and state transitions in AWS Step Functions.
-
-Lambda runs your code on resilient computing infrastructure and takes care of all administrative tasks related to your computing resources. This includes maintenance of servers and operating systems, provisioning and scaling of capacity as needed, deployment of code and security patches, and monitoring and logging of your code. Your responsibility is simply to provide the code.
+Lambda runs your code on resilient computing infrastructure and takes care of all administrative tasks related to your computing resources. This includes maintenance of servers and operating systems, provisioning and scaling of capacity as needed, deployment of code and security patches, and monitoring and logging of your code. Your responsibility is simply to provide the code. |
 
 
 
@@ -25,6 +25,7 @@ Lambda runs your code on resilient computing infrastructure and takes care of al
 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1J9v0iQ5Xm3CWJ1hwYYfD_KcpPjqRBArV)
+
 
 ### Benefits of using Lambda:
 
