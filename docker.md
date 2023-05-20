@@ -4,6 +4,7 @@
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1GYOnnEnxM-GP9asH7_14axUHBzadYbaj) |
 | ----------------------- |
 
+
 | Docker is an open-source platform that simplifies application deployment and management by using containers. Containers are isolated environments that package applications and their dependencies, ensuring consistent performance across different systems. Docker automates the process of creating, deploying, and running applications, making them portable and reproducible. |
 
 
@@ -12,6 +13,7 @@
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1h12PjKaZs9HRJqysAmyF-f5neTii9zlY) |
 | ----------------------- |
+
 
 |**Portability:** Docker containers are highly portable, meaning you can package an application and its dependencies into a container once and run it consistently on any system that supports Docker. This eliminates the "it works on my machine" problem and ensures consistent behavior across different environments, from development to production.
 | **Isolation:** Docker containers provide strong isolation, allowing applications to run in their own isolated environments. Each container has its own file system, processes, and network interfaces, ensuring that applications and their dependencies do not conflict with each other or with the host system. |
