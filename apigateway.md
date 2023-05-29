@@ -15,7 +15,13 @@ In terms of cybersecurity, API Gateway plays a crucial role in protecting the ba
 
 
 
+
+
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1SAbg1PGvZZ4W6wH_y1O03DEyGs0LBamX)
+
+
+
 
 
 
