@@ -14,6 +14,7 @@ In terms of networking, API Gateway helps simplify the network architecture by r
 In terms of cybersecurity, API Gateway plays a crucial role in protecting the backend services from unauthorized access and attacks. It can enforce various security measures, such as authentication, authorization, and encryption, to ensure that only authorized clients can access the services. It can also detect and prevent various types of attacks, such as DDoS (Distributed Denial of Service), SQL injection, and cross-site scripting.
 
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1SAbg1PGvZZ4W6wH_y1O03DEyGs0LBamX)
 
 
